@@ -12,6 +12,11 @@ This project utilizes the DS18B20 digital temperature sensor to measure temperat
 - Resistor (4.7kΩ pull-up for 1-Wire communication)
 - Connecting wires
 
+## Block Diagram
+![Image](https://github.com/user-attachments/assets/74a4f1b9-d5ac-45a2-aa38-141f3128c85e)
+![Image](https://github.com/user-attachments/assets/8574ee42-43ec-486d-8817-705c7c53e6b6)
+
+
 ## Features
 - Reads temperature using the DS18B20 sensor.
 - Displays temperature readings in both Celsius and Fahrenheit.
